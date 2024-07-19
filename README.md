@@ -20,4 +20,4 @@ The sword and shield show how much your defense and damage have increased from p
 
 1. Go to https://rogule.com/ and click on the "Play it now" button.
 1. Open the browser's console.
-1. Copy/paste the contents of [index.js](./index.js) into the console .and press enter.
+1. Copy/paste the contents of [index.js](./index.js) into the console and press enter.
